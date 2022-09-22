@@ -1,0 +1,20 @@
+{
+    "java.project.sourcePaths": [
+        "college programming",
+        ".vscode",
+        "cases study",
+        "."
+    ],
+    "java.help.shareDiagnostics": true,
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\JAVA FX\\lib\\javafx.base.jar",
+        "c:\\JAVA FX\\lib\\javafx.controls.jar",
+        "c:\\JAVA FX\\lib\\javafx.fxml.jar",
+        "c:\\JAVA FX\\lib\\javafx.graphics.jar",
+        "c:\\JAVA FX\\lib\\javafx.media.jar",
+        "c:\\JAVA FX\\lib\\javafx.swing.jar",
+        "c:\\JAVA FX\\lib\\javafx.web.jar",
+        "c:\\JAVA FX\\lib\\javafx-swt.jar"
+    ]
+}
